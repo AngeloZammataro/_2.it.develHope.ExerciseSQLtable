@@ -5,7 +5,7 @@ import java.util.List;
 public class TableSQL {
     public static void main(String[] args) {
 
-        List<String>surnames = new ArrayList<>();
+        //List<String>surnames = new ArrayList<>();
 
         try {
             //LOCAL
